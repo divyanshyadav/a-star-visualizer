@@ -5,9 +5,9 @@ import Cell from './Cell'
 
 const CELL_WIDTH = 10
 const CELL_HEIGHT = 10
-const ANIMATION_DELAY = 100
-const WALL_RANDOMNESS_PERCENT = 40
-const DIAGONAL_NEIGHBORS = true
+const ANIMATION_DELAY = 60
+const WALL_RANDOMNESS_PERCENT = 25
+const DIAGONAL_NEIGHBORS = false
 
 const GIRD_WIDTH = window.innerWidth
 const GRID_HEIGHT = window.innerHeight
